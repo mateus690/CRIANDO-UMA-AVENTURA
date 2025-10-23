@@ -1,5 +1,16 @@
 body {
-    background-color: rgb(221, 102, 205);
-    color: rgb(0, 0, 0);
-    font-family: "BBH Sans Hegarty", sans-serif;
+    background-color: rgb(211, 106, 8);
+    color: rgb(247, 247, 247);
+    font-family: "Bai Jamjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #d3c614;
+    color: rgb(243, 28, 28)
+    font-family: "Bai Jamjuree", sans-serif;
 }
